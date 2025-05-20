@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Qinglong Li (이청용)
+👋 **Hi, I'm Qinglong Li (이청용)**
+
+Assistant Professor at Hansung University specializing in **Big Data Analytics**, **Recommender Systems**, and **Natural Language Processing**.  I develop intelligent algorithms for data-driven decision-making and personalized services.
 
 ## Research Areas
 
@@ -50,7 +52,7 @@
 - **Excellent Paper Award**, KIISS Spring Conference (2021)  
   *Enhancing Personalized Recommendation Service Performance through CNN-Based Prediction of Review Helpfulness Scores*
 
-## 📫 Contact
+## Contact
 <p align="left">
   <a href="mailto:leecy@hansung.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/qinglong-li-406a62328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
