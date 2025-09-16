@@ -59,7 +59,6 @@ Assistant Professor at Hansung University specializing in **Big Data Analytics**
   <a href="https://sites.google.com/view/prism-lab" target="_blank"><img src="https://img.shields.io/badge/PRISM%20Lab-4285F4?style=for-the-badge&logo=google-sites&logoColor=white" alt="PRISM Lab"/></a>
   <a href="https://www.researchgate.net/profile/Qinglong-Li-2?ev=hdr_xprf" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
   <a href="https://scholar.google.co.kr/citations?user=mkQORuAAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="https://leecy.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-333333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Site"/></a>
 </p>
 
 
