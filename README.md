@@ -12,13 +12,14 @@ Assistant Professor at Hansung University specializing in **Big Data Analytics**
 
 ## Career 
 
-| Type               | Date                   | Contents                                 | Organization                   |
-|--------------------|------------------------|------------------------------------------|--------------------------------|
-| Ph.D. Program      | 2021.03 ~ 2024.08              | Big Data Analytics (Ph.D.)              | Kyung Hee University           |
-| Senior Researcher  | 2019.03 ~ 2025.02      | AI Business Research Center              | Kyung Hee University           |
-| Lecturer           | 2024.03 ~ 2024.08      | Dept. of Big Data Analytics              | Kyung Hee University           |
-| Research Professor | 2024.09 ~ 2025.02      | Dept. of Big Data Analytics              | Kyung Hee University           |
-| Assistant Professor| 2025.03 ~ Present      | Division of Computer Engineering         | Hansung University             |
+| Position               | Period             | Organization                         |
+|--------------------|------------------|------------------------------------------------|
+| Ph.D. Program      | 2021.03 ~ 2024.08| Big Data Analytics (Ph.D.), Kyung Hee University|
+| Senior Researcher  | 2019.03 ~ 2025.02| AI Business Research Center, Kyung Hee University|
+| Lecturer           | 2024.03 ~ 2024.08| Dept. of Big Data Analytics, Kyung Hee University|
+| Research Professor | 2024.09 ~ 2025.02| Dept. of Big Data Analytics, Kyung Hee University|
+| Assistant Professor| 2025.03 ~ Present| Division of Computer Engineering, Hansung University|
+
 
 ## **Selected Papers**
 
