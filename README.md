@@ -31,9 +31,12 @@ Assistant Professor at Hansung University specializing in **Big Data Analytics**
 - Li, X., Li, Q., & Kim, J. (2023). A review helpfulness modeling mechanism for online e-commerce: Multi-channel CNN end‑to‑end approach. *Applied Artificial Intelligence*, 37(1), 2166226.  
 
 
-*A total of more than 40 papers have been published to date. For the full list, please refer to my [Google Scholar](https://scholar.google.co.kr/citations?user=mkQORuAAAAAJ&hl=ko).*
+*A total of more than 50 papers have been published to date. For the full list, please refer to my [Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=mkQORuAAAAAJ&view_op=list_works&sortby=pubdate).*
 
 ## Honors and Awards
+
+- **Best Paper Award**, KIISS Spring Conference (2025)  
+  *Multimodal Transformer-Based AI Model for Predicting Review Helpfulness with Review-Product Relevance*
 
 - **Best Paper Award**, KIISS Fall Conference (2024)  
   *Leveraging AI-Driven Advanced Transformer for Summarized Review-Aware Recommendation*
@@ -59,7 +62,7 @@ Assistant Professor at Hansung University specializing in **Big Data Analytics**
   <a href="https://www.linkedin.com/in/qinglong-li-406a62328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://sites.google.com/view/prism-lab" target="_blank"><img src="https://img.shields.io/badge/PRISM%20Lab-4285F4?style=for-the-badge&logo=google-sites&logoColor=white" alt="PRISM Lab"/></a>
   <a href="https://www.researchgate.net/profile/Qinglong-Li-2?ev=hdr_xprf" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-  <a href="https://scholar.google.co.kr/citations?user=mkQORuAAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.co.kr/citations?hl=ko&user=mkQORuAAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
-
+_Last updated: **October 2025**_
